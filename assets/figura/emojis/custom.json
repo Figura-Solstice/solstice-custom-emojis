@@ -18,6 +18,9 @@
     "\uE00E": ["@dyrris"],
     "\uE00F": ["@vyx"],
     "\uE010": ["@karma"],
+    "\uE011": ["@glorpie"],
+    "\uE012": ["@psychomechanical"],
+    "\uE013": ["@vaedia","apathiast"],
 
     "\uE100": ["beatblock","bebloc"],
     "\uE101": ["cato","cato_buttered_cat"],
@@ -29,6 +32,8 @@
 
     "\uE200": ["blender"],
     "\uE201": ["train"],
+    "\uE202": ["draconite","draconite_halo"],
+
     "\uEFF1": ["back1"],
     "\uEFF4": ["back4"]
   }
