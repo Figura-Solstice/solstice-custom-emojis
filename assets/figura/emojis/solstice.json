@@ -1,0 +1,24 @@
+{
+  "blacklist": "",
+  "emojis": {
+    "\uE000": ["sunhalo", "sun_halo"],
+    "\uE100": ["sunhalo_uncolored"],
+    "\uE001": ["halo_light"],
+    "\uE002": ["halo_quocleos"],
+    "\uE003": ["halo_draconite"],
+    "\uE004": ["halo_hystisana"],
+    "\uE005": ["halo_nomouride"],
+    "\uE006": ["halo_tascium"],
+    "\uE007": ["halo_araxus"],
+    "\uE008": ["halo_unovos"],
+    "\uE009": ["clst_i1", "clsti1", "clst", "clst_default"],
+    "\uE00A": ["clst_clock"],
+    "\uE00B": ["clst_combat"],
+    "\uE00C": ["clst_upset"],
+    "\uE00D": ["clst_sorrow"],
+    "\uE00E": ["clst_neutral"],
+    "\uE00F": ["clst_confused"],
+    "\uE010": ["clst_freecam"],
+    "\uE011": ["clst_combatmode"]
+  }
+}
